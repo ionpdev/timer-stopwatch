@@ -1,1 +1,1 @@
-# timer-stopwatch
+# timer-stopwatch pure vanilla JS
